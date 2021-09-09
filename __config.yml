@@ -32,7 +32,7 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # include: ["docs/tests/"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+logo: "/assets/images/just-the-docs.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -70,7 +70,7 @@ aux_links:
     - "//github.com/saintgodkyp/saintgod.github.io"
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
