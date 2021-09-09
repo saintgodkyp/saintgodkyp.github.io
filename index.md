@@ -7,3 +7,9 @@ permalink: /
 ---
 
 Hello My Github~ !!
+
+{% %}
+```
+printf("Hello Github\n");
+```
+{% %}
